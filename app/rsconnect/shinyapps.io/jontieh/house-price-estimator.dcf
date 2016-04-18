@@ -1,0 +1,9 @@
+name: house-price-estimator
+account: jontieh
+server: shinyapps.io
+appId: 95335
+bundleId: 423028
+url: https://jontieh.shinyapps.io/house-price-estimator/
+when: 1460962630.1023
+asMultiple: FALSE
+asStatic: FALSE

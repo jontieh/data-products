@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/172074/d0dd4d4dc7174a15bc85395a76571ef9
+bundleId: https://api.rpubs.com/api/v1/document/172074/d0dd4d4dc7174a15bc85395a76571ef9
+url: http://rpubs.com/jontieh/172074
+when: 1460965460.60259
